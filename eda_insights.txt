@@ -1,0 +1,6 @@
+Target distribution (proportions): {'Obesity_Type_III': 0.19204274769844845, 'Obesity_Type_II': 0.1547028906199704, 'Normal_Weight': 0.1509689049121226, 'Obesity_Type_I': 0.14208459409000193, 'Overweight_Level_II': 0.12109701924934012, 'Insufficient_Weight': 0.1203888495461276, 'Overweight_Level_I': 0.11871499388398893}
+Median BMI by class: Insufficient_Weight: 17.53; Normal_Weight: 22.04; Overweight_Level_I: 25.98; Overweight_Level_II: 28.06; Obesity_Type_I: 32.08; Obesity_Type_II: 36.39; Obesity_Type_III: 41.77
+Gender vs WeightCategory proportions: WeightCategory  Insufficient_Weight  Normal_Weight  Obesity_Type_I  Obesity_Type_II  Obesity_Type_III  Overweight_Level_I  Overweight_Level_II
+Gender                                                                                                                                        
+Female                     0.153290       0.164258        0.123226         0.000774          0.384387            0.102323             0.071742
+Male                       0.087627       0.137736        0.160863         0.307979          0.000514            0.135038             0.170243

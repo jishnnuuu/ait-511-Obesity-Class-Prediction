@@ -1,0 +1,4 @@
+model,oof_accuracy
+KNN,0.7908324212965944
+DecisionTree,0.8382797914118328
+RandomForest,0.8984098371209682

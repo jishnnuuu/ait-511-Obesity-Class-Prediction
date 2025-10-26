@@ -1,0 +1,13 @@
+Baseline results:
+       model  accuracy
+         KNN  0.785002
+DecisionTree  0.840682
+RandomForest  0.900869
+
+OOF results:
+       model  oof_accuracy
+         KNN      0.790832
+DecisionTree      0.838280
+RandomForest      0.898410
+
+XGBoost OOF accuracy: 0.9036
